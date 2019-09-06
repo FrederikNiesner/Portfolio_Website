@@ -1,4 +1,4 @@
-# My Portfolio Homepage
+# My Portfolio
 
-This is my protfolio.
+Hello There! Welcome to my portfolio page.
 
