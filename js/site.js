@@ -1,5 +1,8 @@
 $(document).ready(function() {
 
+
+    
+
     // Variables
     var $codeSnippets = $('.code-example-body'),
         $nav = $('.navbar'),
